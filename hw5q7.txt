@@ -1,0 +1,13 @@
+Customer Number	Item	Cost/Unit	Units
+100	Bike	112	3
+100	ScrewDriver	22	6
+200	Pliers	19	15
+200	Hammer	33	5
+200	Wallet	19	22
+200	ScrewDriver	22	90
+300	Hammer	33	9
+400	Hammer	33	12
+400	Bike	112	5
+400	Basket-Ball	12	65
+400	Tennis-Racket	89	20
+400	ScrewDriver	22	17
