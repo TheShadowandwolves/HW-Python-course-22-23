@@ -1,3 +1,5 @@
+#project Python from Leonard Blam and Ben Broder
+
 import matplotlib.pyplot as plt
 from colorama import Fore, Back, Style
 import numpy as np
